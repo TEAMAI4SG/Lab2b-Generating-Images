@@ -15,8 +15,8 @@ In this lab, you will learn how to harness the power of AI to create images from
 - **Download Images from a URL:** Learn how to programmatically download images from a specified URL using Python. This involves understanding how to send a web request and save the resulting image in a local directory.
 
 <p float="left">
-  <img src="screenshots/Picture1.png" width="45%" />
-  <img src="screenshots/Picture2.png" width="45%" />
+  <img src="screenshots/Picture1.png" width="32%" />
+  <img src="screenshots/Picture2.png" width="32%" />
 </p>
 
 ---
