@@ -58,12 +58,15 @@ $1 (View your OpenAI usage [here](https://platform.openai.com/usage))
 
 3. We also want to create a folder to save the images that we generate in. Navigate to the “Files” section of the left sidebar by clicking on the file icon.
 
-![Picture3](screenshots/Picture3.png) 
-
+<div align="center">
+  <img src="screenshots/Picture3.png" width="30%" />
+</div>
 
 4. In Files, you will see a folder named sample_data. Navigate to its parent folder by clicking the file icon which has an up arrow inside.
 
-![Picture4](screenshots/Picture4.png)  
+<div align="center">
+  <img src="screenshots/Picture4.png" width="25%" />
+</div>
 
 5. Find the content folder, and within it create a new folder named “images”.
 
