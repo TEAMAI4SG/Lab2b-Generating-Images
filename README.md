@@ -134,7 +134,7 @@ def filename_from_input(prompt):
         if character.isalnum() or character == " ":
             alphanum += character
     # Split the alphanumeric prompt into words.
-    # Take the first three words if there are more than three. Else, take all    of them.
+    # Take the first three words if there are more than three. Else, take all of them.
     alphanumSplit = alphanum.split()
     if len(alphanumSplit) > 3:
         alphanumSplit = alphanumSplit[:3]
