@@ -1,4 +1,4 @@
-# Lab 2b: Generating Images with OpenAI’s Models
+# Lab 3: Generating Images with OpenAI’s Models
 
 ---
 
