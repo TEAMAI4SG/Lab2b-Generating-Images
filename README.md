@@ -14,6 +14,10 @@ In this lab, you will learn how to harness the power of AI to create images from
 - **Develop Skills in Using OpenAI's API for Image Generation:** Learn to effectively utilize OpenAI's API to generate images, including setting up the necessary development environment, understanding API documentation, and executing API calls.
 - **Download Images from a URL:** Learn how to programmatically download images from a specified URL using Python. This involves understanding how to send a web request and save the resulting image in a local directory.
 
+<p float="left">
+  <img src="screenshots/Picture1.png" width="45%" />
+  <img src="screenshots/Picture2.png" width="45%" />
+</p>
 
 ---
 
