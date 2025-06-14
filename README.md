@@ -58,9 +58,23 @@ $1 (View your OpenAI usage [here](https://platform.openai.com/usage))
 
 3. We also want to create a folder to save the images that we generate in. Navigate to the “Files” section of the left sidebar by clicking on the file icon.
 
+![Picture3](screenshots/Picture3.png) 
+
+
 4. In Files, you will see a folder named sample_data. Navigate to its parent folder by clicking the file icon which has an up arrow inside.
 
+![Picture4](screenshots/Picture4.png)  
+
 5. Find the content folder, and within it create a new folder named “images”.
+
+<div align="center">
+  <img src="screenshots/Picture5.png" width="30%" />
+  <img src="screenshots/Picture6.png" width="30%" />
+</div>
+
+<div align="center">
+  <img src="screenshots/Picture7.png" width="30%" />
+</div>
 
 6. Now, locate your OpenAI API key. You may already have one from a previous lab; if not, please refer to the Setup Lab for instructions.
 
